@@ -30,7 +30,7 @@ PhishNet AI trains a supervised classification model on a real-world Kaggle data
 | Visualization | Matplotlib, Jupyter Notebook |
 | Testing | unittest |
 | Automation | Bash |
-| Dataset | [Kaggle: Spam/Phishing Email Dataset](https://www.kaggle.com/) (5,728 emails) |
+| Dataset | [Kaggle: Spam/Phishing Email Dataset](https://www.kaggle.com/datasets/jackksoncsie/spam-email-dataset) (5,728 emails) |
 
 ## Project Structure
 
