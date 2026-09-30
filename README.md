@@ -13,13 +13,13 @@ PhishNet AI trains a supervised classification model on a real-world Kaggle data
 
 ## Features
 
-- 🔍 **Text classification** — detects phishing emails from raw email content using `CountVectorizer` + `MultinomialNB`
-- 🏗️ **Object-oriented design** — `EmailDataset` and `PhishingDetector` classes with encapsulation, custom exceptions, and dunder methods
-- 💾 **Model persistence** — save/load trained models with `Joblib`
-- 🖥️ **Terminal CLI** — menu-driven app to train, test, and save models interactively
-- 📊 **Jupyter notebook** — exploratory data analysis with visualizations (class distribution, email length, confusion matrix)
-- ✅ **Unit tested** — 10-test `unittest` suite covering data validation, training, and prediction
-- 🐚 **Bash automation** — one-command setup, testing, and execution via shell scripts
+- **Text classification** — detects phishing emails from raw email content using `CountVectorizer` + `MultinomialNB`
+- **Object-oriented design** — `EmailDataset` and `PhishingDetector` classes with encapsulation, custom exceptions, and dunder methods
+- **Model persistence** — save/load trained models with `Joblib`
+- **Terminal CLI** — menu-driven app to train, test, and save models interactively
+- **Jupyter notebook** — exploratory data analysis with visualizations (class distribution, email length, confusion matrix)
+- **Unit tested** — 10-test `unittest` suite covering data validation, training, and prediction
+- **Bash automation** — one-command setup, testing, and execution via shell scripts
 
 ## Tech Stack
 
